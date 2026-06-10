@@ -4,18 +4,6 @@
 
 目前的学习计划是先完整通读一遍课程内容，建立对大语言模型训练流程的整体认识，再逐步深入各个模块的原理与实现细节。
 
-## 学习内容
-
-CS336 从零开始介绍现代大语言模型的构建过程，主要包括：
-
-* Tokenization
-* Data Processing
-* Transformer Architecture
-* Optimization and Training
-* Scaling Laws
-* Distributed Training
-* Evaluation
-* Inference and Serving
 
 ## 参考资料
 
@@ -43,13 +31,6 @@ CS336 从零开始介绍现代大语言模型的构建过程，主要包括：
 * 核心模块复现（Implementations）
 * 学习心得与总结（Blogs / Thoughts）
 
-## 当前进度
-
-* [x] 搭建学习仓库
-* [ ] 通读课程内容
-* [ ] 整理课程笔记
-* [ ] 完成课程作业
-* [ ] 从零实现简化版 LLM
 
 ## 说明
 
